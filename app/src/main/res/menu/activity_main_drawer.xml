@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@mipmap/ic_home_black_36dp"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_allInterviews"
+            android:icon="@mipmap/ic_content_copy_black_36dp"
+            android:title="All Interviews" />
+        <item
+            android:id="@+id/nav_myFavourites"
+            android:icon="@mipmap/ic_favorite_border_black_36dp"
+            android:title="My Favourites" />
+        <item
+            android:id="@+id/nav_myInterviews"
+            android:icon="@mipmap/ic_bookmark_border_black_36dp"
+            android:title="My Interviews" />
+        <item
+            android:id="@+id/nav_orderHistory"
+            android:icon="@mipmap/rupee"
+            android:title="Order History" />
+        <item
+            android:id="@+id/nav_uploadResume"
+            android:icon="@mipmap/ic_cloud_upload_black_36dp"
+            android:title="Upload Resume" />
+        <item
+            android:id="@+id/nav_myRefers"
+            android:icon="@mipmap/ic_card_giftcard_black_36dp"
+            android:title="My Refers" />
+        <item
+            android:id="@+id/nav_shareApp"
+            android:icon="@mipmap/share"
+            android:title="Share App" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@mipmap/ic_settings_applications_black_36dp"
+            android:title="Settings" />
+    </group>
+
+</menu>

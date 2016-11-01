@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1011575522261",
+    "firebase_url": "https://knowledge-factor-672e9.firebaseio.com",
+    "project_id": "knowledge-factor-672e9",
+    "storage_bucket": "knowledge-factor-672e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011575522261:android:8a904033ba65bc3c",
+        "android_client_info": {
+          "package_name": "nougatstudio.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011575522261-aje8l49u2i21n2kpe5j66ui2msgc2vtk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nougatstudio.myapplication",
+            "certificate_hash": "23B3D2D221851E3A8B2745E7AE7F259ED2F66EEA"
+          }
+        },
+        {
+          "client_id": "1011575522261-ljeumq3r3o0ugcm816kbp59m65hajero.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvWkoyouorf482dlsPdpjopmokKIkOXVw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011575522261-ljeumq3r3o0ugcm816kbp59m65hajero.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011575522261:android:754cdfc7a96c0884",
+        "android_client_info": {
+          "package_name": "nougatstudio.knowledgefactor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011575522261-eddvh2gt7dfsutfs5n8nmj2ojmlllpnm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nougatstudio.knowledgefactor",
+            "certificate_hash": "23B3D2D221851E3A8B2745E7AE7F259ED2F66EEA"
+          }
+        },
+        {
+          "client_id": "1011575522261-ljeumq3r3o0ugcm816kbp59m65hajero.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvWkoyouorf482dlsPdpjopmokKIkOXVw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011575522261-ljeumq3r3o0ugcm816kbp59m65hajero.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Knowledge Factor</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="addCategory">Add category</string>
+    <string name="title_activity_admin">AdminActivity</string>
+    <string name="add_sub_category">Add Sub Category</string>
+    <string name="title_activity_preparation_for">PreparationFor</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts."
+    </string>
+    <string name="go_through">Go throgh the content below. Click on proceed when ready.</string>
+    <string name="how_to_use">How to use this course</string>
+    <string name="noOfSubCategoryHave">No Of SubCategories Have</string>
+    <string name="welcome_to_apti">welcome to Aptitude Preparations course. This video will talk about how best you can make use of this </string>
+</resources>

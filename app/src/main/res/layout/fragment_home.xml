@@ -18,8 +18,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="200sp"
                 android:autoStart="true"
-                android:flipInterval="4000"
-                android:visibility="gone">
+                android:flipInterval="4000">
 
                 <ImageView
                     android:layout_width="match_parent"
@@ -58,31 +57,6 @@
                     android:src="@drawable/a2" />
 
             </ViewFlipper>
-
-            <RelativeLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content">
-
-                <android.support.v4.view.ViewPager
-                    android:id="@+id/view_pager"
-                    android:layout_width="match_parent"
-                    android:layout_height="200dp">
-
-                    <ImageView
-                        android:layout_width="match_parent"
-                        android:id="@+id/viewPagerImageview"
-                        android:layout_height="match_parent" />
-                </android.support.v4.view.ViewPager>
-
-                <LinearLayout
-                    android:id="@+id/layoutDots"
-                    android:layout_width="match_parent"
-                    android:layout_height="10dp"
-                    android:layout_marginBottom="10dp"
-                    android:gravity="center"
-                    android:orientation="horizontal" />
-            </RelativeLayout>
-
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
